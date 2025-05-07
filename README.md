@@ -1,7 +1,9 @@
-## 👋 Hi, I'm Linh! ![Profile Views](https://komarev.com/ghpvc/?username=thuylinh1501&color=blue&style=flat)
-👩🏻‍🎓 I'm a Software Engineering student at Ton Duc Thang University in Ho Chi Minh City, Vietnam.
+## 👋 Hi, I'm Linh!  
+![Profile Views](https://komarev.com/ghpvc/?username=thuylinh1501&color=blue&style=flat)
+
+👩🏻‍🎓 I'm a Software Engineering student at Ton Duc Thang University in Ho Chi Minh City, Vietnam.  
 📫 Reach me at: **duongthuylinh@gmail.com**  
-💼 LinkedIn: [duong-thi-thuy-linh-66bbb5248](https://www.linkedin.com/in/duong-thi-thuy-linh-66bbb5248/)  
+💼 LinkedIn: [duong-thi-thuy-linh-66bbb5248](https://www.linkedin.com/in/duong-thi-thuy-linh-66bbb5248/)
 
 <!-- GitHub stats from https://github.com/anuraghazra/github-readme-stats -->
 ![](https://github-readme-stats.vercel.app/api?username=thuylinh1501&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/>
